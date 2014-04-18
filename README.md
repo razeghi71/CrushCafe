@@ -12,7 +12,7 @@ And What is Cafe ?
 
 And What is CrushCafe ?
 
-- website that help you find your crush and go to cafe with him/her ....
+- website that helps you find your crush and go to cafe with him/her ....
 
 
 :))) 
