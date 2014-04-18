@@ -1,4 +1,4 @@
-CafeCrush
+CrushCafe
 =========
 
 So What is Crush ?
@@ -10,7 +10,7 @@ And What is Cafe ?
 
 - a small restaurant selling light meals and drinks.
 
-And What is Crush Cafe ?
+And What is CrushCafe ?
 
 - website that help you find your crush and go to cafe with him/her ....
 
